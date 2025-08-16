@@ -1,0 +1,3 @@
+mkdir file.txt
+cd file.txt
+ git add file.txt
